@@ -1,5 +1,3 @@
-
-
 package Controller;
 
 import Dao.LivroDao;
@@ -13,7 +11,7 @@ import javax.faces.model.DataModel;
 import javax.faces.model.ListDataModel;
 
 /**
- *
+ * Trabalho Faculdade UNIME - BSI
  * @author Isaias Silva
  */
 @ManagedBean
